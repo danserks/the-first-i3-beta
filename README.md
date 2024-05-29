@@ -5,3 +5,5 @@
 
 # lets start!
 > so as you know thats i know nothing about it so im gonna dig out some other repo which made by people in github
+> so yeah for the config which contains desgin of other programm
+> first programm thats im going to use is polybar and i found this <a href"https://github.com/nicomazz/i3-polybar-config">Polybar</a> which kind a look simple and easy to learn
